@@ -4,7 +4,7 @@ This project explores four popular machine learning models: Decision Tree, AdaBo
 
 ## 1. Decision Tree Classifier
 A supervised learning method that splits data into smaller subsets using decision rules. It handles both numerical and categorical data.
-Parameters: criterion='gini', max_depth=4, random_state=0
+<br />Parameters: criterion='gini', max_depth=4, random_state=0
 Results: Misclassified samples: X, Accuracy: Y
 
 ![image](https://github.com/user-attachments/assets/5f619b56-a17e-4e24-98bb-dde2446d9834)
